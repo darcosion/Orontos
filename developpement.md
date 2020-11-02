@@ -28,6 +28,15 @@ Pour le moment, aucune donnée brute et aucune map n'a été trouvé
 
 Il semble qu'ils disposent de rapport au format excell, pas vu de base de donnée plus propre ou de carto : https://www.gov.uk/guidance/monitoring-radioactivity
 
+### Géorgie
+
+Il semble qu'un ensemble de capteurs aient été déployés en Géorgie avec l'aide de la suède, leurs données sont propulsés sur ce site : http://nonproliferation.ge/about-us
+Ils dispose de deux cartes pour deux types de capteur : 
+http://nonproliferation.ge/maps/background-radiation-stationary-monitoring-map
+http://nonproliferation.ge/maps/background-radiation-mobile-monitoring-map
+
+A étudier car les données sont exportables, mais elles ne semblent pas être en milisivert, ni en becquerel, mais en "CPM".
+
 ## Autres
 
 Le site https://radioecology-exchange.org semble fournir beaucoup de documentation d'agrégation de donnée.
