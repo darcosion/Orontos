@@ -32,4 +32,5 @@ Il semble qu'ils disposent de rapport au format excell, pas vu de base de donné
 
 # Autres
 
-Le site https://radioecology-exchange.org semble fournir beaucoup de documentation d'agrégation de donnée 
+Le site https://radioecology-exchange.org semble fournir beaucoup de documentation d'agrégation de donnée.
+Il existe un équivalent maritime à REMON, mais qui ne regroupe que 15 pays apparemment : https://odims.ospar.org/
