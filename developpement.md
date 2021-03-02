@@ -1,9 +1,22 @@
 # Documentation 
 
+## Conception
+
+Le sievert semble être la valeur la plus répandue pour la mesure de la radioactivité.
+
+Je vois cependant de temps en temps des "CPM" proposés, ce qui correspond à (Counts Per Minute)[https://en.wikipedia.org/wiki/Counts_per_minute].
+En français, cela semble correspondre à "coup par seconde" ou "CPS".
+
+
+Ce type de mesure pourrait être modifié en siviert pour en faciliter la lecture.
+
+
+
 ## Agrégateur européen
 
 Le site de l'union européenne relative à ces capteurs se nomme : https://remon.jrc.ec.europa.eu/
 
+Il dispose de plusieurs éléments, notamment un système d'intégration et un système de zoom permettant de récupérer la donnée sur une zone et montrer la variation journalière de mesure.
 
 ## Agrégateur locaux
 
