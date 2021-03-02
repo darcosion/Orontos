@@ -118,3 +118,9 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
+
+
+# pour réunir tous les fichiers statiques à un unique endroit
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, "static"),
+]
