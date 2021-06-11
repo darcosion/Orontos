@@ -4,7 +4,7 @@
 
 Le sievert semble être la valeur la plus répandue pour la mesure de la radioactivité.
 
-Je vois cependant de temps en temps des "CPM" proposés, ce qui correspond à (Counts Per Minute)[https://en.wikipedia.org/wiki/Counts_per_minute].
+Je vois cependant de temps en temps des "CPM" proposés, ce qui correspond à [Counts Per Minute](https://en.wikipedia.org/wiki/Counts_per_minute).
 En français, cela semble correspondre à "coup par seconde" ou "CPS".
 
 
