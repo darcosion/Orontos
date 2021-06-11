@@ -18,6 +18,8 @@ Le site de l'union européenne relative à ces capteurs se nomme : https://remon
 
 Il dispose de plusieurs éléments, notamment un système d'intégration et un système de zoom permettant de récupérer la donnée sur une zone et montrer la variation journalière de mesure.
 
+La réponse aux solicitations par ce site est "le projet REMON ne diffuse pas les informations collectés qui sont la propriété de chaque pays. Contactez les autorités locales".
+
 ## Agrégateur locaux
 
 ### France
